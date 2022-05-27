@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GodotID/blog-frontend/issues"
   },
-  "homepage": "https://github.com/GodotID/blog-frontend#readme"
+  "homepage": "https://github.com/GodotID/blog-frontend#readme",
+  "devDependencies": {
+    "sass": "^1.52.1"
+  }
 }
