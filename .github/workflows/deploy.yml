@@ -9,7 +9,7 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
-      - run: npm install
+      - run: npm install -D
       - run: npm run build
       - uses: BogDAAAMN/deta-deploy-action@v1.0.1
         with:
